@@ -2,6 +2,8 @@ package chap02;
 // 두배열이 같은거를 판단
 // 63p
 //실습 2-7
+//복습 ■ □ □ □ □ □ □ □ □ □ (8/16)
+
 import java.util.Scanner;
 
 public class ArrayEqual {

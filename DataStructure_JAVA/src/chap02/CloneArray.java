@@ -2,7 +2,7 @@ package chap02;
 // 배열을 복제
 // 실습 2-3
 // 48p
-
+//복습 ■ □ □ □ □ □ □ □ □ □ (8/16)
 
 public class CloneArray {
 	
