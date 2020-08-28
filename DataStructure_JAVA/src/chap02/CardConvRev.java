@@ -1,5 +1,6 @@
 package chap02;
 
+//복습 ■ ■ □ □ □ □ □ □ □ □ (8/16)(8/28)
 import java.util.Scanner;
 
 public class CardConvRev {
